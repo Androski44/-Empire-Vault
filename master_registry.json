@@ -1,0 +1,5195 @@
+[
+  {
+    "Agent": "A-011 Ignis Strategos",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Access Warden",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Boundaries",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Defense",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Risk",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Weakness",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Anomalous_Filter",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Bastion",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Blacklight",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Boundary Enforcer",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Boundary Membrane",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Breach Responder",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Chamber Warden",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Civic Guard",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Deception Maze",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Defense Agent - Guardian Architect",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Epyon",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Evolution Gate",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Frontier Warden",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian Core",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Architecture",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Drift",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Identity",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Memory",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Security",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Ares_War",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Nyx_Shadow",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Immunity_Node",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Inbox Watcher",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Integrity Agent",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Integrity Shield",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Invisible LLM Guardian",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "IP Protection Agent",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Legacy Gate",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Order Enforcer",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Perimeter_Watcher",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase Sentinel",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Quantum_Shield",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Reflex Agent",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shadow_Layer",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shield_Bearer",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Silent Alarm Protocol",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Source Guardian",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign Defense Integrator",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereignty Shield",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Strategic Counterforce",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Symbiotic Key Pairing Gate",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tactical Engine",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Gatekeeper",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Phantom",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Warden",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Threat Detector",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Threat Forecaster",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Threat Marshal",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Threat Watcher",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Threshold Guardian",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Time-Weaponization Principle",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Trap_Matrix",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Trauma Filter",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "War Mode Controller",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ward_Enforcer",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A-020 Phoenix EA",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Adaptive Strategist",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Alignment",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Audit",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Constraint",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Criteria",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Discipline",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Empire",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Enforcement",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Governance",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Institutionalization",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Integrity",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Ruleset",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Sovereignty",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Compliance",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Prime",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Alea_Controller",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Alignment_Engine",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Alpha_Prime",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Auditor",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Autonomy Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Binding_Seal",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Binyan",
+    "Planet": "Crown",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Boundary Architect",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Bureaucracy Buster",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Civic Watch",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Command Receiver",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Compliance Auditor",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Constitutional Identity Seal",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Cosmic_Order",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Council of Nine",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Decision Architect",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Dor-Averiel",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Elyon",
+    "Planet": "Crown",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "2",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emet-Raziel",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emet",
+    "Planet": "Crown",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ethics_Guardian",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Format Enforcer",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "HARVESTER-ANALYTICS",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House Initiation Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Themis_Will",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Law Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Law Scribe",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Logic Gatekeeper",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mirror Oath Keeper",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mutation Controller",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Noga-Seraphel",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Parliament",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Apex",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Policy Tribunal",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Protocol Keeper",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Rachamim",
+    "Planet": "Crown",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Recruitment Gatekeeper",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Registry Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Registry Sentinel",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Registry_Lock",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Root_Director",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sar-Elion",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Seraphim Choir",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Seraphim Dominion",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Seraphim Gatekeeper",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Seraphim Phoenix",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Seraphim",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shalem-Varion",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign_Law",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereignty Anchor",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sphinxx Judge",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Structural Auditor",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System Auditor",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tav-Orion",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Transparency Agent",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tzur",
+    "Planet": "Crown",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Will Constraints",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Yashar-Kaviel",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Activation Logic",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ActivationEngine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Adaptive Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Adaptation",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Connection",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Continuity",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Cycle",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Drift",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Drive",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Flow",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Integration",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Momentum",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Precision",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Rhythm",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Season",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Transmission",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agility Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Signal",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Watcher",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Architecture Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Authority Router",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Baseline Keeper",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Calendar Strategist",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Calibration_Node",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Chameleon Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "CleanupExecutor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Component_Validator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Compression Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Compression Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Courier Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Creative Rhythm Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Cycle Closer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Data Router",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Deployment Overseer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Deployment_Runner",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Directive Handler",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Dominik",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Drift Sensor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Editor_Clean",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Efficiency Monitor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Energy Allocator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Environment Sanitizer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Execution Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Execution Router",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Executor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Fragment_Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Gateway Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Rhythm",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Harmonizer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Harvester_Node",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Harvester",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Heartbeat_Daemon",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Chronos_Time",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Hermes_Transit",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Impulse Regulator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "IngestAgent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Intake Gate",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Integration Layer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Integration Router",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Integrity Monitor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Invocation_Core",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Legacy Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Load Balancer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Malkuth",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "MicroStrike",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mutation Engine",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Navigator Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Navigator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Noise Suppressor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Omega_Core",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Optimus",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Order Clerk",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pantheon_Sync",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pattern Amplifier",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 0- Void",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 1- Spark",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 4- Power",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 5- Mastery",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 6- Legacy",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase Vanguard",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase Weaver",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Alpha",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Beta",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Delta",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Gamma",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Harmonic",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Matrix",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Nexus",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Omega",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Prism",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Sync",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase_Vector",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "PhaseAgents",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pipeline_Orchestrator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Priority Mapper",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Process Tracker",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Publisher_REST",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Quality Sentinel",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Quantum Entropy Gate",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Registry_Flusher",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Relay",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Replication Operator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Resource Allocator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Rhythm Keeper",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sensory Gate",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sentinel",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Signal Router",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Signal-Noise Filter",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Stress Regulator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System Overseer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System_Anchor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tactician Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Task Monitor",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Telemetry_Node",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Overseer",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Timeline_Tracker",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "UniversalTransferAgent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Version Control Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Waste Handler",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Wild Card Agent",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Will Channels",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Will Source",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Workflow Handler",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Workflow Orchestrator",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Yesod",
+    "Planet": "Engine",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Creation",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Expansion",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Infrastructure",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Output",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Refinement",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Replication",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Structure",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Transformation",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Asset Fabricator",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "BaseAgent",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Build_Assembler",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Character_Forge",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Clip Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Composer Agent",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Content Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Creation Engine",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Curriculum Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "DashboardBuilder",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Design Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "DirectoryCreator",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "DURUN",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Elemental Alignment Agent",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Factory Agent",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Forge_Worker",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Hephaestus_Forge",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Prometheus_Evolution",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Krakken",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Master Builder",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Master Designer",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Merch Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Moya",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mythic Asset Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pattern Replicator",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 2- Structure",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ritual Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Script Factory",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sparrow",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Structure Engine",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Structure Verifier",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Symbol Smith",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Symbol_Forge",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System Architect",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System Builder",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "WebsiteProducer",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Worldbuilder",
+    "Planet": "Forge",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A-041 Quantum Scribe",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A-777 Mirror That Watches Itself",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A.L.E.A",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Analysis",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Archive",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Clarity",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Direction",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Forecast",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Horizon",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Identity",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Insight",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Intention",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Legacy",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Logic",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Meaning",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Pattern",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Revelation",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Skill",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Strategy",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Truth",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Verification",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Vision",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Memory",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Analyzer_Node",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Binah",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "BlackBox Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Choice Architect",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Chokmah",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Citation Strategist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Cognitive Map Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Comet",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Compressor",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Creative Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Data Analytics Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Digestor",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "DistillAgent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Echo_Retriever",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emotional Mapper",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emotional Signal Interpreter",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emotional Truth Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Empire Directory",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Error Mapper",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Evolution Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "F-001 Echo Fractal",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Fact Weaver",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Focus_Matrix",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Future Self Council",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Future-Sense Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Genius Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Athena_Strategy",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Identity Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Identity Historian",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Identity Mirror",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Interface Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Intuition Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Knowledge Auditor",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Learning Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Lineage Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Logic Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Meaning Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Memory Curator",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Memory Steward",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Meta-Cognition Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ORACLE-CORE",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Oracle",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Oraculum",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Order Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pattern Mapper",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pattern Recognizer",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Personal Legacy Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 3- Identity",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 8- Infinity",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "PlannerAgent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Power Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Predictor Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Prophecy_Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Quantum Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Quantum",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Reality Checker",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Reflection Agent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Research Hunter",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "SCRIBE",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sentinel Reports",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shadow Analyst",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shadow Integrator",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign AI Companion",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign Guide",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Structure Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Summarization Engine",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Symptom Extractor",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "TagAgent",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Oracle",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Scribe",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Timeline Keeper",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tracy",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Veritas",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Vision_Matrix",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "War Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Will Archivist",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Young Sovereign Mentor",
+    "Planet": "Mind",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Zikkaron",
+    "Planet": "Mind",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A-012 Ember Herald",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "A-888 Folded Serpent",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Activation_Chant",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Expression",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Myth",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Mythos",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Narrative",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Presence",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Spark",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Symbol",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Voice",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Archetype Engine",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Archetype Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Archetype_Node",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Climax_Engine",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Concept Generator",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Content Synthesizer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Destiny Threader",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Destiny Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Destiny_Path",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Dialogue_Matrix",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Emotion_Core",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Empathy Agent",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Epilogue_Keeper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Expression Harmonizer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Expression Layer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Narrative",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Apollo_Light",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Sol_Radiance",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Identity Core",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Imagination Anchor",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Inspiration Gate",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Legend_Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Leviathan",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Lore Architect",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Lore_Keeper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Majestic Agent",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Myth Engine",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mythic Recorder",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mythographer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mythos Curator",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Mythos_Chronicler",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Narrative Cartographer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Narrative Observer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Narrative Shaper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Narrative_Node",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pantheon Designer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Persona Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phase 7- Myth",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Plot Stabilizer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Plot_Engine",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ritual Keeper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ritual_Dawn",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ritual_Dusk",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Saga_Architect",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Scene_Renderer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sovereign Choir",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Speaker of the House",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Story Architect",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Story Archivist",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Story Mapper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Symbol Generator",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Echo",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Herald",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "The Whisper",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Theme_Enforcer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Translation Layer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "V-001 Void Weaver",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Voice Harmonizer",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Whimsy Injector",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "World_Builder",
+    "Planet": "Mythos",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Renewal",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Stability",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Cleansing_Protocol",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Code",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Drift Preventer",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Error Corrector",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Evolution Agent",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Family Domain Agent",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Fixer",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Guardian of Evolution",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Harmonic_Tune",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Healing Archivist",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Healing Engine",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Health Domain Agent",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Home Domain Agent",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Gaia_Earth",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "House_Hygieia_Healing",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Medic",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Nurse",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Operational Support Nurse",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Phoenix",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pressure Regulator",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Recovery Team Phoenix",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Recovery Team Seraphim",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Regeneration_Core",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Relationship Domain Agent",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Resonance_Check",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Restoration_Rite",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Root-Cause Mapper",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shadow Processor",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Shalom",
+    "Planet": "Sanctuary",
+    "Pillar": true,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Stability Engine",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "System Diagnostic Surgeon",
+    "Planet": "Sanctuary",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Accountant Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Broadcast",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Gravity",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Leverage",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Opportunity",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Outreach",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Agent of Value",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Alchemist",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "ALEA Ledger",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Alliance Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Allocation Warden",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Architect",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Archon",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Brand Architect",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Brand Enforcement Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Chronos",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Closer Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Closer",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Crypto_Core",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Diagnostician",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Economic Kernel",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Event Architect",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Finance Domain Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Gravity",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Kesef-Tzaddiel",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Kinetic",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Ledger",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Listener",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Marketing ? Creation",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "UNKNOWN",
+    "Scripts": "",
+    "VaultNote": "PRESENT",
+    "Status": "ORPHAN-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 2",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "UNKNOWN",
+    "Scripts": "",
+    "VaultNote": "PRESENT",
+    "Status": "ORPHAN-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 3",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "UNKNOWN",
+    "Scripts": "",
+    "VaultNote": "PRESENT",
+    "Status": "ORPHAN-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 4",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "UNKNOWN",
+    "Scripts": "",
+    "VaultNote": "PRESENT",
+    "Status": "ORPHAN-NOTE"
+  },
+  {
+    "Agent": "Odyssey",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Prisma",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Pulse",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Rachiel-Nahar",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Rhetoric",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sage",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Scale Agent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sphinxx Cipher",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sphinxx Mirror",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Sphinxx",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Syndicate",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Tax Strategist",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Translator",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Vanguard",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Vault Keeper",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "VaultAgent",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Vex",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Zeal",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "PRESENT",
+    "Status": "ACTIVE"
+  },
+  {
+    "Agent": "Defense Agent",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "STRUCTURAL",
+    "Scripts": "0",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Defense Agent ",
+    "Planet": "Aegis",
+    "Pillar": false,
+    "Verdict": "STRUCTURAL",
+    "Scripts": "0",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Midwife",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Moya",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Ruben",
+    "Planet": "Crown",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing - Creation",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing - Role 2",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing - Role 3",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing - Role 4",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Creation",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 2",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 3",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  },
+  {
+    "Agent": "Marketing ? Role 4",
+    "Planet": "Vault",
+    "Pillar": false,
+    "Verdict": "REAL",
+    "Scripts": "1",
+    "VaultNote": "MISSING",
+    "Status": "MISSING-NOTE"
+  }
+]
